@@ -6,11 +6,11 @@ This repo documents my journey of solving Data Structures and Algorithms with Ja
 I’m practicing daily, problem by problem — aiming for clean, optimized, and well-commented code.
 
 🚀 Topics Covered
-Arrays
-Strings
-Linked List
-Stack & Queue
-Trees & Graphs
-Recursion & Backtracking
-Sliding Window & Two Pointers
-Dynamic Programming
+Arrays |
+Strings |
+Linked List |
+Stack & Queue |
+Trees & Graphs |
+Recursion & Backtrackingn |
+Sliding Window & Two Pointers |
+Dynamic Programming |
